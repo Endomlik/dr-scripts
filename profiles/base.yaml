@@ -230,9 +230,13 @@ steal_past_mindlock: false
 stealing_buffs:
 npc_stealing_attempt_count: 0
 dont_steal_list:
+<<<<<<< HEAD
 hide_to_steal: true
 bin_stolen: false
 slow_bin_speed: false
+=======
+
+>>>>>>> parent of c3f79a90... Stealing beyond Crossing
 
 
 
